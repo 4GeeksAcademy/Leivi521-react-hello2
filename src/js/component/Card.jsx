@@ -3,7 +3,7 @@ import React from 'react'
 
 const Card = () => {
   return (
-    <div class="d-flex">
+    <div class="d-flex justify-content-center">
       {/* Card1 */}
     <div class="card" style={{width: '18rem'}}>
       <img src="https://media.istockphoto.com/id/479987128/photo/dogs-in-agility.jpg?s=1024x1024&w=is&k=20&c=dXnYpb5FiYbCkWDo7kDeyOACDSMpnemtmavlWHSFs3o=" class=" card-img-top" alt="..."/>

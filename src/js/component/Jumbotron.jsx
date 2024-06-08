@@ -12,9 +12,7 @@ const Jumbotron = (props) => {
         It typically uses clear headings, bold text, and sometimes even images or videos to 
         make the information stand out from the rest of the page.
         </p>
-        <p>
-         
-        </p>
+        <button type="button" class="btn btn-primary">Call To Action!</button>
       </div>
     );
 };

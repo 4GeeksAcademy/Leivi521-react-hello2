@@ -1,6 +1,7 @@
 import React from "react";
 import Card from "./component/Card";
 import Jumbotron from "./component/Jumbotron";
+import Navbar from "./component/Navbar";
 // import Card from ".component/Card"
 //include images into your bundle
 
@@ -8,8 +9,11 @@ import Jumbotron from "./component/Jumbotron";
 //create your first component
 const Home = () => {
 	return (
-		<div className="text-center">
 			
+		<div>
+			<Navbar />
+			
+
 		
 			<Jumbotron />
 		
