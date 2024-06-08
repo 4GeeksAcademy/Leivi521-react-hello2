@@ -9,8 +9,10 @@ import Jumbotron from "./component/Jumbotron";
 const Home = () => {
 	return (
 		<div className="text-center">
-			TEST
+			
+		
 			<Jumbotron />
+		
 
 			<Card />
 		</div>

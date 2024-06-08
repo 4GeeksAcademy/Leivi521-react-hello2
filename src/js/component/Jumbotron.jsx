@@ -4,14 +4,16 @@ import PropTypes from 'prop-types';
 const Jumbotron = (props) => {
 
     return (
-        <div>
-        <h1>Hello, world!</h1>
-        <p>
-          This is a simple hero unit, a simple jumbotron-style component for calling
-          extra attention to featured content or information.
+        <div class="d-flex flex-column mb-3 align-items-center " style = {{width: '100vw'}} > 
+        <h1>A Warm Welcome! </h1>
+        <p style = {{width: '50vw'}}>
+        A hero unit, also known as a jumbotron, is a large area at the beginning 
+        of a webpage that draws the visitor's eye to the most important content or message. 
+        It typically uses clear headings, bold text, and sometimes even images or videos to 
+        make the information stand out from the rest of the page.
         </p>
         <p>
-          <Button bsStyle="primary">Learn more</Button>
+         
         </p>
       </div>
     );
