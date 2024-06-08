@@ -11,7 +11,7 @@ const Jumbotron = (props) => {
           extra attention to featured content or information.
         </p>
         <p>
-          <Button bsStyle="primary">Learn more</Button>
+          <button bsStyle="primary">Learn more</button>
         </p>
       </div>
     );
