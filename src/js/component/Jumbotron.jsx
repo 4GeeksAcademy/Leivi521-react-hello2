@@ -6,7 +6,7 @@ const Jumbotron = (props) => {
     return (
         <div class="d-flex flex-column mb-3 align-items-center " style = {{width: '100vw'}} > 
         <h1>A Warm Welcome! </h1>
-        <p style = {{width: '50vw'}}>
+        <p style = {{width: '80vw'}}>
         A hero unit, also known as a jumbotron, is a large area at the beginning 
         of a webpage that draws the visitor's eye to the most important content or message. 
         It typically uses clear headings, bold text, and sometimes even images or videos to 

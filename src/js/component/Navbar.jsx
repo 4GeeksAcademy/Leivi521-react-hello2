@@ -13,9 +13,9 @@ const NavBar = () => {
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class=" ms-auto navbar-nav align-items-right pl-5 " >
         <a class="nav-link active" aria-current="page" href="#">Home</a>
-        <a class="nav-link" href="#">Features</a>
-        <a class="nav-link" href="#">Pricing</a>
-        <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+        <a class="nav-link" href="#">About</a>
+        <a class="nav-link" href="#">Services</a>
+        <a class="nav-link" href="#">Contact</a>
       </div>
     </div>
   </div>
